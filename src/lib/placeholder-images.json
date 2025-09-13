@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A close-up of a modern printing press in action.",
+      "imageUrl": "https://picsum.photos/seed/hero/1920/1080",
+      "imageHint": "printing press"
+    },
+    {
+      "id": "about",
+      "description": "The interior of a clean and organized print workshop.",
+      "imageUrl": "https://picsum.photos/seed/about/800/600",
+      "imageHint": "print workshop"
+    },
+    {
+      "id": "tag",
+      "description": "Stylish custom product tags hanging from clothing.",
+      "imageUrl": "https://picsum.photos/seed/tag/600/400",
+      "imageHint": "product tag"
+    },
+    {
+      "id": "label",
+      "description": "A detailed shot of a wash care label on a t-shirt.",
+      "imageUrl": "https://picsum.photos/seed/label/600/400",
+      "imageHint": "clothing label"
+    },
+    {
+      "id": "sticker",
+      "description": "A collection of colorful and creative custom stickers.",
+      "imageUrl": "https://picsum.photos/seed/sticker/600/400",
+      "imageHint": "custom sticker"
+    },
+    {
+      "id": "card",
+      "description": "A stack of elegant, high-quality business cards.",
+      "imageUrl": "https://picsum.photos/seed/card/600/400",
+      "imageHint": "business card"
+    }
+  ]
+}
