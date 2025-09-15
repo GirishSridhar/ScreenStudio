@@ -10,7 +10,7 @@ const productsData = [
       id: 'labels',
       title: 'Labels',
       icon: <Shirt className="h-8 w-8 text-primary" />,
-      imageUrl: 'ScreenStudio/images/WC.jpg',
+      imageUrl: 'https://girishsridhar.github.io/ScreenStudio/images/WC.jpg',
       summary: 'Durable and versatile labels for various applications, including wash care, coding, tracking, warnings, and bellybands. Available in multiple materials to suit your needs.',
       types: ['Wash Care Labels', 'Code Labels', 'Tracking Labels', 'Warning Labels', 'Bellyband'],
       materials: [
@@ -24,7 +24,7 @@ const productsData = [
       id: 'stickers',
       title: 'Stickers',
       icon: <Sticker className="h-8 w-8 text-primary" />,
-      imageUrl: 'ScreenStudio/images/barcode-sticker.jpg',
+      imageUrl: 'https://girishsridhar.github.io/ScreenStudio/images/barcode-sticker.jpg',
       summary: 'High-quality adhesive stickers perfect for barcodes, pricing, QR codes, and general product information. Choose from a range of finishes and materials.',
       types: ['Barcode Stickers', 'Price Stickers', 'Code Stickers', 'QR Code Stickers'],
       materials: [
@@ -39,7 +39,7 @@ const productsData = [
       id: 'hang-tags',
       title: 'Hang Tags',
       icon: <Tag className="h-8 w-8 text-primary" />,
-       imageUrl: 'ScreenStudio/images/hangtag.jpg',
+       imageUrl: 'https://girishsridhar.github.io/ScreenStudio/images/hangtag.jpg',
       summary: 'Premium hang tags to enhance your product presentation. Available in various board types with multiple finishing options like UV coating and foiling.',
       types: ['Product Tags', 'Brand Tags', 'Promotional Tags', 'Information Tags'],
       boardTypes: [
@@ -58,7 +58,7 @@ const productsData = [
       id: 'business-cards',
       title: 'Business Cards',
       icon: <ContactIcon className="h-8 w-8 text-primary" />,
-       imageUrl: 'ScreenStudio/images/business-card.jpg',
+       imageUrl: 'https://girishsridhar.github.io/ScreenStudio/images/business-card.jpg',
       summary: 'Professionally designed and printed business cards that make a lasting impression. Choose from various board types and finishing options.',
       types: ['Standard Business Cards', 'Premium Business Cards', 'Custom Shaped Cards'],
       boardTypes: [
