@@ -5,6 +5,7 @@ import { Toaster } from "@/components/ui/toaster";
 export const metadata: Metadata = {
   title: 'Screen Studio',
   description: 'High Quality Printing Solutions',
+  
 };
 
 export default function RootLayout({
