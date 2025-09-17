@@ -1,1 +1,8 @@
-screenstudio.in
+id: 6841
+opcode: QUERY
+status: NOERROR
+flags: QR RD RA CD
+;; QUESTION SECTION:
+;screenstudio.in.	IN A
+;; ANSWER SECTION:
+screenstudio.in.	10800 IN A 184.168.117.94
